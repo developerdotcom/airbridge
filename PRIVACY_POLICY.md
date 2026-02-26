@@ -26,4 +26,4 @@ Since data transfer occurs over your private local Wi-Fi network, the security o
 AirBridge does not knowingly collect any personal information from children.
 
 ## 5. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: [Your Email Address]
+If you have any questions about this Privacy Policy, please contact us at: developerdotcom@gmail.com
